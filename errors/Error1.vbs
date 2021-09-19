@@ -1,0 +1,1 @@
+x=msgbox("you're bad ur bad you suck",0+16,"Error")
