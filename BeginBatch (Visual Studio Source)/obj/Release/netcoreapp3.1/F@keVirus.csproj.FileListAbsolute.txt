@@ -1,0 +1,15 @@
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\F@keVirus.exe
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\F@keVirus.deps.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\F@keVirus.runtimeconfig.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\F@keVirus.runtimeconfig.dev.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\F@keVirus.dll
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\F@keVirus.pdb
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.csproj.AssemblyReference.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.Form1.resources
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.csproj.GenerateResource.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.AssemblyInfoInputs.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.AssemblyInfo.cs
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.csproj.CoreCompileInputs.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.dll
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.pdb
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\F@keVirus.genruntimeconfig.cache

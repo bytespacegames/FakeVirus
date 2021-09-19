@@ -1,0 +1,5 @@
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\publish\F@keVirus.exe
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\publish\F@keVirus.dll
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\publish\F@keVirus.deps.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\publish\F@keVirus.runtimeconfig.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\publish\F@keVirus.pdb

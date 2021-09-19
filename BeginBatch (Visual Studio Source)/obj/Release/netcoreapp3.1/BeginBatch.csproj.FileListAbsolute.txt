@@ -1,0 +1,15 @@
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\BeginBatch.exe
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\BeginBatch.deps.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\BeginBatch.runtimeconfig.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\BeginBatch.runtimeconfig.dev.json
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\BeginBatch.dll
+D:\source\repos\BeginBatch\BeginBatch\bin\Release\netcoreapp3.1\BeginBatch.pdb
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.csproj.AssemblyReference.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.Form1.resources
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.csproj.GenerateResource.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.AssemblyInfoInputs.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.AssemblyInfo.cs
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.csproj.CoreCompileInputs.cache
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.dll
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.pdb
+D:\source\repos\BeginBatch\BeginBatch\obj\Release\netcoreapp3.1\BeginBatch.genruntimeconfig.cache
